@@ -12,11 +12,28 @@ como a sintaxe do HTML funciona enquanto eu aprendo.
 use ```<h1>Seu conteúdo</h1>```
 
 **Paragráfo**   
-use ```<p> texto desejado </p>```
+use ```<p> texto desejado </p>```  
+
+**Negrito**  
+use ```<strong> texto desejado </strong> ```
+
+**Italico**  
+use ```<em> texto desejado </em>```  
+
+**Marcar texto**  
+use ```<Mark> texto desejado </Mark>```    
+
+**Texto inserido**  
+use ```<ins> Texto desejado</ins>```  
+\_texto desejado\_   
+
+**Texto excluido**  
+use ```<del>Texto desejado</del>```  
+~Texto desejado~  
 
 **Imagem**  
-use ```<img src="foto.png" alt="exempo de foto">```
-foto.png é seu arquivo e exemplo de foto o titulo dela.  
+use ```<img src="foto.png" alt="exempo de foto">```  
+```foto.png``` é o seu arquivo e ```exemplo de foto``` é o título alternativo dela.  
 
 **Inserir Linha**  
 use ```<hr>```
