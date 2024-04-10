@@ -43,4 +43,4 @@ https://www.invertexto.com/simbolos-para-copiar
 
 **Eojis**
 use a tag ```&#x``` mais o valor do emoji examplo ```1f604```   
-&#x1f604 = 😄
+```&#x1f604``` = 😄
