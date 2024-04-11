@@ -29,23 +29,22 @@ use ```<ins> Texto desejado</ins>```
 
 **Texto excluido**  
 use ```<del>Texto desejado</del>```  
-~Texto desejado~  
-
-**Imagem**  
-use ```<img src="foto.png" alt="exempo de foto">```  
-```foto.png``` é o seu arquivo e ```exemplo de foto``` é o título alternativo dela.  
+~Texto desejado~    
 
 **Inserir Linha**  
 use ```<hr>```
 
-**Quebra de Linha** 
+**Quebra de Linha**   
 use ```<br>```  
 
 **códigos**  
 use ```<pre><code> printf("Hello Word"); </pre></code>```  
 
 **Recuo**  
-use ```<blockquote>```
+use ```<blockquote>```  
+
+**Abreviações**
+use ```<abbr title="Folha de estilo em cascata">CSS</abbr>```
 
 ---  
 
@@ -63,7 +62,18 @@ Site para mais referências: https://fap.if.usp.br/~vvuolo/A%20-%20HOME%20-%20Fi
 https://www.invertexto.com/simbolos-para-copiar
 
 ---  
+**Imagem**  
+use ```<img src="foto.png" alt="exempo de foto">```  
+```foto.png``` é o seu arquivo e ```exemplo de foto``` é o título alternativo dela.  
 
 **Eojis**
 use a tag ```&#x``` mais o valor do emoji examplo ```1f604```   
-```&#x1f604``` = 😄
+```&#x1f604``` = 😄  
+
+**Lista Ordenadas**  
+use ```<ol><li>acordar</li><li>tomar banho<li></ol>```  
+existe mais type "tipos".
+
+**Lista Não Ordenadas**  
+use ```<ul type="square"><li>acordar</li><li>tomar banho<li></ul>```  
+existe mais type "tipos".
