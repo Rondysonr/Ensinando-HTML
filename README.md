@@ -38,8 +38,14 @@ use ```<img src="foto.png" alt="exempo de foto">```
 **Inserir Linha**  
 use ```<hr>```
 
-**Quebra de Linha**  
+**Quebra de Linha** 
 use ```<br>```  
+
+**códigos**  
+use ```<pre><code> printf("Hello Word"); </pre></code>```  
+
+**Recuo**  
+use ```<blockquote>```
 
 ---  
 
